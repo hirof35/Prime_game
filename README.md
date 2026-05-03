@@ -52,3 +52,4 @@
 ## 📝 ライセンス
 
 [MIT License](LICENSE)
+<img width="542" height="485" alt="スクリーンショット 2026-05-03 104804" src="https://github.com/user-attachments/assets/d36fd01e-032c-4ae5-a1a6-6429c9f4dd0b" />
